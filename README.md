@@ -1,6 +1,9 @@
 # awesome-bonding-curves
 Awesome Aspects and Assets About Bonding Curves
 
+# Introduction
+- https://yos.io/2018/11/10/bonding-curves/
+
 ## Algorithms for Autonomous Market Markers
 - https://economicsdesign.substack.com/p/ep-19-bonding-curve-algorithms-for
 
@@ -18,3 +21,6 @@ Awesome Aspects and Assets About Bonding Curves
 
 ## Bonding Curve Parametrisation
 - https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a
+
+## Curve Conversions for Price Formulas
+- https://medium.com/@billyrennekamp/converting-between-bancor-and-bonding-curve-price-formulas-9c11309062f5
