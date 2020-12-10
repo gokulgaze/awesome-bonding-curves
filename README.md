@@ -15,3 +15,6 @@ Awesome Aspects and Assets About Bonding Curves
 
 ## Bancor Smart Tokens 
 - https://medium.com/@simondlr/bancors-smart-tokens-vs-token-bonding-curves-a4f0cdfd3388
+
+## Bonding Curve Parametrisation
+- https://blog.relevant.community/bonding-curves-in-depth-intuition-parametrization-d3905a681e0a
